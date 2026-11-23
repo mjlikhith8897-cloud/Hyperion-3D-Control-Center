@@ -1,0 +1,6 @@
+{
+  "name": "Hyperion 3D Control Center",
+  "description": "Premium dark futuristic 3D dashboard and infrastructure telemetry console featuring glassmorphism and real-time interactive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
